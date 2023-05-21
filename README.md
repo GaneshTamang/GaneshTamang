@@ -1,3 +1,4 @@
+# Ganesh Tamang
 - 👋 Hi, I’m GaneshTamang
 - 👀 I’m interested in trying new things and challenge my self to new learning things
 - 🌱 I’m currently learning flutter app programming
