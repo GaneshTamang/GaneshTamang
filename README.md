@@ -1,9 +1,11 @@
 # Ganesh Tamang
-- 👋 Hi, I’m GaneshTamang
+
+- 👋 Hi, I’m GaneshTamang from Nepal</br>
+&nbsp; ![1f1f3-1f1f5](https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png)
 - 👀 I’m interested in trying new things and challenge my self to new learning things
 - 🌱 I’m currently learning flutter app programming
-- 💞️ I’m looking to collaborate on any projects 
-- 📫 How to reach me u can send me mesages at tamangganesh@hotmail.com
+- 
+- 📫  tamangganesh@hotmail.com
 
 
 # Languages and Tools
