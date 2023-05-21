@@ -1,10 +1,9 @@
 # Ganesh Tamang
 
-- 👋 Hi, I’m GaneshTamang from Nepal</br>
+- 👋 Hi, I’m GaneshTamang from Nepal
 &nbsp; ![1f1f3-1f1f5](https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png)
 - 👀 I’m interested in trying new things and challenge my self to new learning things
-- 🌱 I’m currently learning flutter app programming
-- 
+- 🌱 I’m currently learning flutter app programming 
 - 📫  tamangganesh@hotmail.com
 
 
@@ -14,7 +13,7 @@
 <img align="left" alt="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt=".netcore" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Java" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 <img align="left" alt="HTML5" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
