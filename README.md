@@ -4,7 +4,7 @@
 
 &nbsp; ![1f1f3-1f1f5](https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png)
 - 👀 I’m interested in trying new things and challenge my self to new learning things
-- 🌱 I’m currently learning flutter app programming 
+- 🌱 Flutter App developer
 - 📫  tamangganesh@hotmail.com
 
 
