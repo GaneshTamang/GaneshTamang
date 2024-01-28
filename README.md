@@ -1,5 +1,5 @@
 # Ganesh Tamang
--!<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
 - 👋 Hi, I’m GaneshTamang from Nepal</br>
 
 &nbsp; ![1f1f3-1f1f5](https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png)
