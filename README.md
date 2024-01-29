@@ -8,7 +8,7 @@
 
 
 
-- 👀 I’m interested in trying new things and challenge my self to new learning things
+- 👀 I like to make my Imagination to reality by coding and challenge myseld
 ## **💻Flutter App developer**
 - 📫  tamangganesh@hotmail.com
 
