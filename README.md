@@ -1,7 +1,7 @@
 # Ganesh Tamang
 
 -👋 Hi, I’m GaneshTamang from Nepal  
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN254dmZjb3R3cnN3MjVtY3NwcXNhOWl6eTNwejV4NWI0dTExN2huMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF" align="right" height="200" width=""200 />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN254dmZjb3R3cnN3MjVtY3NwcXNhOWl6eTNwejV4NWI0dTExN2huMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF" align="right" height="200" width="200" />
 
 
 
