@@ -14,6 +14,8 @@
 
 # Languages and Tools
 <img align="left" alt="flutter" width="28px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />
+<img align="left" alt="CSS3" width="33px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
+
 <img align="left" alt="C-Program" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="C++" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
