@@ -8,7 +8,7 @@
 
 
 
-- 👀 I like to make my Imagination to reality by coding and challenge myseld
+- 👀 I like to make my Imagination to reality by coding and challenge myself
 ## **💻Flutter App developer**
 - 📫  tamangganesh@hotmail.com
 
