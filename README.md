@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m GaneshTamang from Nepal <img  src="https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png"  width="30px" height="30px" align ="inline"/>  </p>
 <!-- right gif image-->
-<img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="250" width="250" />
+<img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="300" width="300" />
 
 
 
