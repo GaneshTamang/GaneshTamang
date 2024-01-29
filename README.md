@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m GaneshTamang from Nepal <img  src="https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png"  width="30px" height="30px" align ="inline"/>  </p>
 <!-- right gif image-->
-<img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="50%" width="50%" />
+<img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="250" width="250" />
 
 
 
@@ -14,21 +14,19 @@
 
 
 # Languages and Tools
-<p align="left" vspace ="10" >
-<img align="left" vspace ="10" alt="flutter" width="28px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />
-<img align="left" vspace ="10" alt="CSS3" width="33px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
-<img align="left" vspace ="10" alt="C-Program" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" vspace ="10" alt="C++" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" vspace ="10" alt="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="left" vspace ="10" alt=".netcore" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" vspace ="10"  alt="Java" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" vspace ="10" alt="HTML5" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" vspace ="10" alt="CSS3" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-<img align="left" vspace ="10" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="flutter" width="28px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />
+<img align="left" alt="CSS3" width="33px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
+<img align="left" alt="C-Program" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="C++" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt=".netcore" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="Java" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="HTML5" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="CSS3" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
+<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
 
-<img align="left" vspace ="10" alt="MySQL" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" vspace ="10" alt="Git" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
-</p>
 
 
 
