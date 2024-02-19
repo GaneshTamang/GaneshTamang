@@ -2,7 +2,7 @@
 <img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="200"/>
 <p>
 
-- 👋 Hi, I’m GaneshTamang from Nepal <img  src="https://user-images.githubusercontent.com/59009782/135906123-6c039042-ae75-4c44-a9fd-1a0dc5f1b39c.png"  width="30px" height="30px" align ="inline"/>  </p>
+
 <!-- right gif image-->
 <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="300" width="300" />
 
