@@ -1,4 +1,6 @@
+
 # ⛩ Ganesh Tamang
+
 <img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="200"/>
 <p>
 
@@ -36,9 +38,9 @@
 
 
 
+#
 
-
-<br></br>
+<br>![rank trophies for comits and  experience](https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience)</br>
 
 # My Statistics  📊 
 
@@ -50,7 +52,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshtamang)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!---
 GaneshTamang/GaneshTamang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
