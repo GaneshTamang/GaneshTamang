@@ -50,7 +50,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshtamang)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 GaneshTamang/GaneshTamang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
