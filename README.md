@@ -12,7 +12,7 @@
 
 - 👀 I like to make my Imagination to reality by coding and challenge myself
 ## **💻Flutter App developer**
-- 📫  tamangganesh@hotmail.com
+- 📫 ** tamangganesh@hotmail.com **
 
 
 # Languages and Tools
@@ -37,8 +37,8 @@
 
 
 
-
-#
+<br></br>
+## Git Experience
 
 <br>![rank trophies for comits and  experience](https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience)</br>
 
