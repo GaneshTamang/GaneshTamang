@@ -17,6 +17,7 @@
 
 # Languages and Tools
 <!--LOgos -->
+<!-- 1st row-->
 <img align="left" alt="flutter Logo" width="28px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" />
 <img align="left" alt="CSS3 logo" width="33px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" />
 <img align="left" alt="C-Program logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -25,15 +26,16 @@
 <img align="left" alt=".netcore logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="Python logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
+<!-- 2nd row-->
 <br></br>
 <img align="left" alt="HTML 5 logo" width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3 logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
 <img align="left" alt="JavaScript logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="my Sql logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="React Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
 <!-- here it can only 10 icons withhn 33 px so break row for nice view-->
 
-
+<!-- 3rd row-->
 <br></br>
 <img align="left" alt="Chat GPT logo" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
 <img align="left" alt="git logo" width="55px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
