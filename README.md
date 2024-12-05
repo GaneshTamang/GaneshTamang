@@ -12,7 +12,7 @@
 
 - 👀 I like to make my Imagination to reality by coding and challenge myself
 ## **💻Flutter App developer**
-- 📫 **tamangganesh@hotmail.com**
+- 📫 **[Email Me @](mailto:tamangganesh@hotmail.com)** --> [tamangganesh@hotmail.com](mailto:tamangganesh@hotmail.com)
 
 
 # Languages and Tools
@@ -33,12 +33,15 @@
 <img align="left" alt="JavaScript logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="my Sql logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="React Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Unity Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-line-wordmark.svg" />
 <!-- here it can only 10 icons withhn 33 px so break row for nice view-->
 
 <!-- 3rd row-->
 <br></br>
-<img align="left" alt="Chat GPT logo" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
+<img align="left" alt="Chat GPT logo" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
 <img align="left" alt="git logo" width="55px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
+
+
 
 
 
