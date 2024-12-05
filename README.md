@@ -37,15 +37,19 @@
 
 <!-- here it can only 10 icons withhn 33 px so break row for nice view-->
 </div>
-<!-- 3rd row-->
+
+<div>
+  <!-- 3rd row-->
 <br></br>
 <img align="left" alt="Chat GPT logo" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png?20230318122128" />
 <img align="left" alt="git logo" width="55px" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />
+</div>
 
 
 
 
-
+<br></br>
+<img align="left" alt="Unity Logo" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" style="filter: hue-rotate(210deg);" />
 
 <br></br>
 ## Git Experience
