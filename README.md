@@ -33,7 +33,9 @@
 <img align="left" alt="JavaScript logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="my Sql logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="React Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Unity Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-line-wordmark.svg" />
+<div style="background-color: white; width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; border-radius: 5px;">
+  <img alt="Unity Logo" width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unity/unity-line-wordmark.svg" />
+</div>
 <!-- here it can only 10 icons withhn 33 px so break row for nice view-->
 
 <!-- 3rd row-->
