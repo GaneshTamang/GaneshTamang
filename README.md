@@ -32,6 +32,7 @@
 <img align="left" alt="HTML 5 logo" width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3 logo" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
 <img align="left" alt="JavaScript logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="my Sql logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="React Logo"  width="33px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
 
