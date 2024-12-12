@@ -58,13 +58,19 @@
 <br>![rank trophies for comits and  experience](https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience)</br>
 
 # My Statistics  📊 
+## My Statistics 📊
 
-[![](https://raw.githubusercontent.com/GaneshTamang/testingReadme/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GaneshTamang/testingReadme/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GaneshTamang/testingReadme/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GaneshTamang/testingReadme/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/GaneshTamang/testingReadme/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+| Overall   |     Score        |
+|----------------------------|--------------------------|
+| Language by Commits        | Overall Stats           |
+| ![Language by Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark) | ![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077) |
 
+| UTC Time Zone |
+|---------------|
+| UTC Time Zone |
+| ![UTC Time Zone](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75) |
+
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20)
 
 
