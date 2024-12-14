@@ -14,12 +14,15 @@
 
 
 ## **💻Flutter App developer**
+<!-- Connect with Me Section -->
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="mailto:tamangganesh@hotmail.com"><img src="https://img.shields.io/badge/Email-tamangganesh%40hotmail.com-red?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/ganeshtamang"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Tamang-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ganeshtamang.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://twitter.com/ganeshtamang"><img src="https://img.shields.io/badge/Twitter-@ganeshtamang-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:tamangganesh@hotmail.com"><img src="https://img.shields.io/badge/Email-tamangganesh%40hotmail.com-blue?style=flat&logo=microsoft-outlook&logoColor=white" alt="hotmail"></a>
+  <a href="https://www.youtube.com/@Mr.Ggaming"><img src="https://img.shields.io/badge/YouTube-@Mr.G%20Gaming-darkred?style=flat&logo=youtube&logoColor=darkred" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/ganesh-tamang-894568238/"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Tamang-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/GaneshTamang"><img src="https://img.shields.io/badge/Github-@GaneshTamang-1DA1F2?style=flat&logo=github&logoColor=white" alt="github badge"></a>
+  <a href="https://x.com/grunzeshyangbo"><img src="https://img.shields.io/badge/Twitter-@GaneshTamang-1DA1F2?style=flat&logo=X&logoColor=black" alt="X"></a>
+  <a href="https://www.twitch.tv/grunzedota2"><img src="https://img.shields.io/badge/Twitch-%40grunzeDota2-9146FF?style=flat&logo=twitch&logoColor=purple" alt="Twitch tc"></a>
 </p>
   
 - 📫 **[Email Me @](mailto:tamangganesh@hotmail.com)** --> [tamangganesh@hotmail.com](mailto:tamangganesh@hotmail.com)
