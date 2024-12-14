@@ -76,7 +76,9 @@
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75">|
 
   
-![GitHub Streak](https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20" style="display:block; margin-left:auto; margin-right:auto;">
+</div>
 
 
 
