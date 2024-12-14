@@ -65,16 +65,26 @@
 
 
 # My Statistics  📊 
+
+
+<div align="center">
+
+  
 ## Overall Scores
 
 | <b><i> Languages </i> </b>  |   <b><i> Repo Stats  </i></b>     |
 |----------------------------|--------------------------|
 |<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077"> |
 
+</div>
+
+<div align="center">
+
 | UTC Time Zone |
 |---------------|
 | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75">|
 
+</div>
   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20" style="display:block; margin-left:auto; margin-right:auto;">
