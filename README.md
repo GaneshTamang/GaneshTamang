@@ -1,6 +1,11 @@
 
-
+<div align="center">
+  
 # ⛩<b><i>Ganesh Tamang </i> </b>
+
+**💻Flutter App developer**
+
+ </div> 
 <div alt="div for interests and info">
 <img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="150"/>
 <p>
@@ -42,7 +47,7 @@
 </ul>
 
 
-## **💻Flutter App developer**
+
 <!-- Connect with Me Section -->
 <h2>📫 Connect with Me</h2>
 <p>
