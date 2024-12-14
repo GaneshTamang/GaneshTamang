@@ -3,7 +3,9 @@
   
 <h1> ⛩<b><i>Ganesh Tamang </i> </b></h1>
 
-**💻Flutter App developer**
+<h3>🚀 Crafting Flutter Apps | Guiding Treks in Nepal | Streaming Dota2 Battles 🎮</h3>
+
+**💻 Flutter App Developer |  🏔️ Licensed Trekking Guide |🎮 Dota 2 Game Streamer |**  
 <br></br>
 <img alt ="matrix gif" src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="150"/>
  </div> 
@@ -30,11 +32,11 @@
 <!-- right side panda coding gif image-->
 <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="300" width="300" />
 
-- 👀 <i>I like to make my Imagination to reality by coding and challenge myself </i>
+- 👀 <b>Passion:</b> Turning imagination into reality in both coding and trekking adventures.
 
 
 <br></br>
-# Languages and Tools
+# 🛠️Languages and Tools
 <!--LOgos -->
 <!-- 1st row-->
 <div>
@@ -103,7 +105,7 @@
 
 
 <div>
-<h2>  Git Experience </h2>
+<h2> 🏆 Git Experience </h2>
 
 
    <img width=1200 height=250 alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience" >
