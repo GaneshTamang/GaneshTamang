@@ -1,11 +1,12 @@
 
-# ⛩   <b><i>Ganesh Tamang </i> </b>
 
-<img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="200"/>
+# ⛩<b><i>Ganesh Tamang </i> </b>
+<div alt="div for interests and info">
+<img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="150"/>
 <p>
 
 
-<!-- right gif image-->
+<!-- right coding gif image-->
 <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="300" width="300" />
 
 
@@ -13,9 +14,18 @@
 
 
 ## **💻Flutter App developer**
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="mailto:tamangganesh@hotmail.com"><img src="https://img.shields.io/badge/Email-tamangganesh%40hotmail.com-red?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ganeshtamang"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Tamang-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ganeshtamang.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://twitter.com/ganeshtamang"><img src="https://img.shields.io/badge/Twitter-@ganeshtamang-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
   
 - 📫 **[Email Me @](mailto:tamangganesh@hotmail.com)** --> [tamangganesh@hotmail.com](mailto:tamangganesh@hotmail.com)
 
+</div>
+<br></br>
 
 # Languages and Tools
 <!--LOgos -->
@@ -50,16 +60,17 @@
 
 
 
-
-<br></br>
+<div align="center">
 <img align="left" alt="Unity Logo" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" style="filter: hue-rotate(210deg);" />
+
+</div>
 
 
 ## <p align="center"> Git Experience </p>
 
-
+<div align="center">
    <img style="width:100%;height:100%;text-align:center;" alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience" >
-
+</div>
 
   
 
@@ -71,20 +82,40 @@
 
   
 ## Overall Scores
+<table>
+  <!--header-->
+<th> <b><i> Languages </i> </b> </th>
+  
+  <th>   <b><i> Repo Stats  </i></b>  </th>   
+<!--table data 1st row-->
+<tr>
+  <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark"> </td>
+  <td> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077"> |</td>
+</tr>
 
-| <b><i> Languages </i> </b>  |   <b><i> Repo Stats  </i></b>     |
-|----------------------------|--------------------------|
-|<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077"> |
+<!--table data 2nd title row-->
 
+ <tr>
+      <td colspan="2" >
+   <div align="center">
+        <b><i>UTC Time Zone commits per day </i></b> 
+   </div>
+        </td>
+ </tr >
+<!--table data 2nd data row-->
+
+ <tr >
+   <td colspan="2">
+<div align="center"> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75">
 </div>
+  </td>
+</tr>
+</table>
+<!--table for stats closed-->
 
-<div align="center">
 
-| UTC Time Zone |
-|---------------|
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75">|
-
-</div>
+</div> <!--div closed for stats -->
   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20" style="display:block; margin-left:auto; margin-right:auto;">
