@@ -12,6 +12,35 @@
 
 - 👀 <i>I like to make my Imagination to reality by coding and challenge myself </i>
 
+<!-- Featured Projects Section -->
+<h2>🚀 Featured Projects</h2>
+<ul>
+<!--chat app-->
+  <li>
+    <b><a href="https://github.com/GaneshTamang/flast_chat_firebase_example">Flash Chat App</a></b>: A simple group chat app using Flutter and FireBase.
+    <br></br>
+    <br> <a href="https://github.com/GaneshTamang/flast_chat_firebase_example"><img src ="https://github.com/GaneshTamang/flast_chat_firebase_example/blob/main/ReadmeImages/chatscreen.gif"  ></a>
+    <br></br>
+  </li>
+  <!--flutter animation example app-->
+  <li>
+    <b><a href="https://github.com/GaneshTamang/flutter_animations">Flutter Basic Animation method example Apps</a></b>: Basic flutter Animation App for understanding animation method in flutter 
+   <br></br>
+    <br><a href="https://github.com/GaneshTamang/flutter_animations"><img src="https://github.com/GaneshTamang/flutter_animations/blob/main/ReadmeGif/example_1_animation.gif"></a>
+    <br></br>
+  <br>
+    <a href="https://github.com/GaneshTamang/flutter_animations"><img src="https://github.com/GaneshTamang/flutter_animations/blob/main/ReadmeGif/clip-flip-rotate.gif"></a>
+  </li>
+
+  <!--todoApp-->
+  <li>
+    <b><a href="https://github.com/GaneshTamang/AngelaYUStateManagementExample_TodoeyApp">ToDo app for understanding State management using  provider</a></b>:   A simple ToDoApp
+    <br></br>
+  <div align="left">  <a href="https://github.com/GaneshTamang/AngelaYUStateManagementExample_TodoeyApp"> <img src="https://private-user-images.githubusercontent.com/91676483/298885572-c3f54813-87bc-45f0-9956-683c75b00979.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxOTA2NTIsIm5iZiI6MTczNDE5MDM1MiwicGF0aCI6Ii85MTY3NjQ4My8yOTg4ODU1NzItYzNmNTQ4MTMtODdiYy00NWYwLTk5NTYtNjgzYzc1YjAwOTc5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE1MzIzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmNjI0ODU2ZDI0M2MzYmRiNjdiMTk4YzE5ZDRkYWJmMWFiYTk5Mzc2ODVkNWRlMmFkMjUwMzE0YWYzZjVmODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-4uU0YVJSHTCyUyc3LRk3x3q66i1i_-83xN54S002Js" height=500 width=300></a></div>
+    
+  </li>
+</ul>
+
 
 ## **💻Flutter App developer**
 <!-- Connect with Me Section -->
