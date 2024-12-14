@@ -1,5 +1,5 @@
 
-# ⛩ Ganesh Tamang
+# ⛩   <b><i>Ganesh Tamang </i> </b>
 
 <img src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="200"/>
 <p>
@@ -9,9 +9,11 @@
 <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="coding gif" align="right" height="300" width="300" />
 
 
+- 👀 <i>I like to make my Imagination to reality by coding and challenge myself </i>
 
-- 👀 I like to make my Imagination to reality by coding and challenge myself
+
 ## **💻Flutter App developer**
+  
 - 📫 **[Email Me @](mailto:tamangganesh@hotmail.com)** --> [tamangganesh@hotmail.com](mailto:tamangganesh@hotmail.com)
 
 
@@ -52,23 +54,26 @@
 <br></br>
 <img align="left" alt="Unity Logo" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" style="filter: hue-rotate(210deg);" />
 
-<br></br>
-## Git Experience
 
-<br>![rank trophies for comits and  experience](https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience)</br>
+## <p align="center"> Git Experience </p>
+
+
+   <img style="width:100%;height:100%;text-align:center;" alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience" >
+
+
+  
+
 
 # My Statistics  📊 
-## My Statistics 📊
+## Overall Scores
 
-| Overall   |     Score        |
+| <b><i> Languages </i> </b>  |   <b><i> Repo Stats  </i></b>     |
 |----------------------------|--------------------------|
-| Language by Commits        | Overall Stats           |
-| ![Language by Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark) | ![Overall Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077) |
+|<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshtamang&theme=github_dark"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshtamang&theme=2077"> |
 
 | UTC Time Zone |
 |---------------|
-| UTC Time Zone |
-| ![UTC Time Zone](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75) |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshtamang&theme=monokai&utcOffset=5.75">|
 
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20)
