@@ -2,7 +2,7 @@
 <div align="center">
   <!--https://github.com/antonkomarev/github-profile-views-counter-->
   
-![](https://komarev.com/ghpvc/?username=ganeshtamang)
+![](https://komarev.com/ghpvc/?username=ganeshtamang&abbreviated=true&color=green)
 <h1> ⛩<b><i>Ganesh Tamang </i> </b>👨🏻‍💻</h1>
 
 <h3>🚀 Crafting Flutter Apps | Guiding Treks in Nepal | Streaming Dota2 Battles 🎮</h3>
