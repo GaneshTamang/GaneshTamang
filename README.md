@@ -1,7 +1,7 @@
 <!--heading-->
 <div align="center">
   
-<h1> ⛩<b><i>Ganesh Tamang </i> </b></h1>
+<h1> ⛩<b><i>Ganesh Tamang </i> </b>👨🏻‍💻</h1>
 
 <h3>🚀 Crafting Flutter Apps | Guiding Treks in Nepal | Streaming Dota2 Battles 🎮</h3>
 
