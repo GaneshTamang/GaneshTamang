@@ -113,7 +113,8 @@
 <h2> 🏆 Git Experience </h2>
 
 
-   <img width=1200 height=250 alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience" >
+   <!-- img width=1200 height=250 alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=ganeshtamang&rank=S,SS,SSS,A,B,AA,AAA&theme=gruvbox&title=Repositories,Commits,Experience" -->
+   <img width=1200 height=250 alt="rank trophies for commits and experience"  src="https://github-profile-trophy.vercel.app/?username=GaneshTamang&theme=onedark" >
 
 </div>
   
