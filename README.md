@@ -172,7 +172,8 @@
 
   <!--commit streak score widget -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20" style="display:block; margin-left:auto; margin-right:auto;">
+  <!--img src="https://streak-stats.demolab.com?user=GaneshTamang&count_private=true&theme=algolia&border_radius=20" style="display:block; margin-left:auto; margin-right:auto;"-->
+  <img src="https://camo.githubusercontent.com/382390f016a3c75ac117b0d752ee01ad05e23a355c449d885886d52886afa02c/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d47616e65736854616d616e6726636f756e745f707269766174653d74727565267468656d653d616c676f6c696126626f726465725f7261646975733d3230">
 </div>
 </div> <!--div closed for stats -->
 
