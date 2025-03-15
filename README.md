@@ -10,7 +10,7 @@
 
 <h3>🚀 Crafting Flutter Apps | Treks in Nepal & Tibet | Streaming Dota2 Battles 🎮</h3>
 
-**💻 Flutter App Developer |  🕵🏼  Licensed Adventurer Guide |🎮 Dota 2 Game Streamer |**  
+**👨🏻‍💻 Flutter App Developer |  🕵🏼  Licensed Adventurer Guide |🎮 Dota 2 Game Streamer |**  
 <br></br>
 <img alt ="matrix gif" src ="https://github.com/GaneshTamang/GaneshTamang/assets/91676483/66c63697-0da9-4588-ab06-d7124382f595" width="100%" height="150"/>
  </div> 
